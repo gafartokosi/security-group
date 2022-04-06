@@ -10,5 +10,3 @@ With this security group resource, the following argunents are included:
  - Three inbound rules
  - One outbound rule
  - Tags
-
-# Thank you!
